@@ -4,7 +4,7 @@
    data-name="Ebene 1"
    viewBox="0 0 499.96 468.87"
    version="1.1"
-   sodipodi:docname="title-inside.svg"
+   sodipodi:docname="logo-with-title.svg"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -59,41 +59,6 @@
          inkscape:collect="always"
          stdDeviation="8.9553354"
          id="feGaussianBlur6536" />
-    </filter>
-    <filter
-       inkscape:menu-tooltip="In and out glow with a possible offset and colorizable flood"
-       inkscape:menu="Shadows and Glows"
-       inkscape:label="Cutout Glow"
-       style="color-interpolation-filters:sRGB;"
-       id="filter8785"
-       x="-0.026583233"
-       y="-0.17307692"
-       width="1.0642428"
-       height="1.4182692">
-      <feOffset
-         dy="3"
-         dx="3"
-         id="feOffset8775" />
-      <feGaussianBlur
-         stdDeviation="3"
-         result="blur"
-         id="feGaussianBlur8777" />
-      <feFlood
-         flood-color="rgb(0,0,0)"
-         flood-opacity="1"
-         result="flood"
-         id="feFlood8779" />
-      <feComposite
-         in="flood"
-         in2="SourceGraphic"
-         operator="in"
-         result="composite"
-         id="feComposite8781" />
-      <feBlend
-         in="blur"
-         in2="composite"
-         mode="normal"
-         id="feBlend8783" />
     </filter>
   </defs>
   <path
@@ -3288,22 +3253,22 @@
        id="tspan130682-7-5-7-3-6-4-6-2-8-3-8-0">U</tspan></text>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:1.25;font-family:matrix;-inkscape-font-specification:'matrix, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#31f134;fill-opacity:1;stroke:none;filter:url(#filter6534)"
-     x="106.19544"
-     y="284.69159"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;line-height:1.25;font-family:matrix;-inkscape-font-specification:'matrix, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#31f134;fill-opacity:1;stroke:none;filter:url(#filter6534)"
+     x="78.376213"
+     y="324.10217"
      id="text163698-8"><tspan
        sodipodi:role="line"
        id="tspan1585-1"
-       x="106.19544"
-       y="284.69159">HACKATHON</tspan></text>
+       x="78.376213"
+       y="324.10217">HACKATHON</tspan></text>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:1.25;font-family:matrix;-inkscape-font-specification:'matrix, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#f3fdf4;fill-opacity:1;stroke:none"
-     x="104.64038"
-     y="285.14713"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;line-height:1.25;font-family:matrix;-inkscape-font-specification:'matrix, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#f3fdf4;fill-opacity:1;stroke:none"
+     x="78.821159"
+     y="324.55771"
      id="text163698"><tspan
        sodipodi:role="line"
        id="tspan1585"
-       x="104.64038"
-       y="285.14713">HACKATHON</tspan></text>
+       x="78.821159"
+       y="324.55771">HACKATHON</tspan></text>
 </svg>
